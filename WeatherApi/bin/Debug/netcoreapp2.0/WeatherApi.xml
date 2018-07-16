@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WeatherApi</name>
+    </assembly>
+    <members>
+        <member name="M:WeatherApi.Controllers.CurrentWeatherController.GetCurrentWeather(System.String)">
+            <summary>
+            Get information about current weather in specific city
+            </summary>
+            <param name="city">name of city</param>
+        </member>
+        <member name="M:WeatherApi.Controllers.ForecastController.GetForecastFor5Days(System.String)">
+            <summary>
+            Get forecast for specific city
+            </summary>
+            <param name="city">name of city</param>
+        </member>
+        <member name="T:WeatherApi.Models.CurrentWeather">
+            <summary>
+            Class that contains information about current weather
+            </summary>
+        </member>
+        <member name="T:WeatherApi.Models.ForecastWeather">
+            <summary>
+            Class that contains information about the forecast
+            </summary>
+        </member>
+    </members>
+</doc>

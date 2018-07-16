@@ -1,0 +1,24 @@
+C:\Users\takta\Desktop\22 — копия\WeatherApi\WeatherApi\bin\Debug\netcoreapp2.0\WeatherApi.xml
+C:\Users\takta\Desktop\22 — копия\WeatherApi\WeatherApi\bin\Debug\netcoreapp2.0\WeatherApi.deps.json
+C:\Users\takta\Desktop\22 — копия\WeatherApi\WeatherApi\bin\Debug\netcoreapp2.0\WeatherApi.runtimeconfig.json
+C:\Users\takta\Desktop\22 — копия\WeatherApi\WeatherApi\bin\Debug\netcoreapp2.0\WeatherApi.runtimeconfig.dev.json
+C:\Users\takta\Desktop\22 — копия\WeatherApi\WeatherApi\bin\Debug\netcoreapp2.0\WeatherApi.dll
+C:\Users\takta\Desktop\22 — копия\WeatherApi\WeatherApi\bin\Debug\netcoreapp2.0\WeatherApi.pdb
+C:\Users\takta\Desktop\22 — копия\WeatherApi\WeatherApi\obj\Debug\netcoreapp2.0\WeatherApi.csprojAssemblyReference.cache
+C:\Users\takta\Desktop\22 — копия\WeatherApi\WeatherApi\obj\Debug\netcoreapp2.0\WeatherApi.csproj.CoreCompileInputs.cache
+C:\Users\takta\Desktop\22 — копия\WeatherApi\WeatherApi\obj\Debug\netcoreapp2.0\WeatherApi.AssemblyInfoInputs.cache
+C:\Users\takta\Desktop\22 — копия\WeatherApi\WeatherApi\obj\Debug\netcoreapp2.0\WeatherApi.AssemblyInfo.cs
+C:\Users\takta\Desktop\22 — копия\WeatherApi\WeatherApi\obj\Debug\netcoreapp2.0\WeatherApi.dll
+C:\Users\takta\Desktop\22 — копия\WeatherApi\WeatherApi\obj\Debug\netcoreapp2.0\WeatherApi.pdb
+C:\Users\takta\Desktop\OpenWeatherMap\WeatherApi\bin\Debug\netcoreapp2.0\WeatherApi.xml
+C:\Users\takta\Desktop\OpenWeatherMap\WeatherApi\bin\Debug\netcoreapp2.0\WeatherApi.deps.json
+C:\Users\takta\Desktop\OpenWeatherMap\WeatherApi\bin\Debug\netcoreapp2.0\WeatherApi.runtimeconfig.json
+C:\Users\takta\Desktop\OpenWeatherMap\WeatherApi\bin\Debug\netcoreapp2.0\WeatherApi.runtimeconfig.dev.json
+C:\Users\takta\Desktop\OpenWeatherMap\WeatherApi\bin\Debug\netcoreapp2.0\WeatherApi.dll
+C:\Users\takta\Desktop\OpenWeatherMap\WeatherApi\bin\Debug\netcoreapp2.0\WeatherApi.pdb
+C:\Users\takta\Desktop\OpenWeatherMap\WeatherApi\obj\Debug\netcoreapp2.0\WeatherApi.csprojAssemblyReference.cache
+C:\Users\takta\Desktop\OpenWeatherMap\WeatherApi\obj\Debug\netcoreapp2.0\WeatherApi.csproj.CoreCompileInputs.cache
+C:\Users\takta\Desktop\OpenWeatherMap\WeatherApi\obj\Debug\netcoreapp2.0\WeatherApi.AssemblyInfoInputs.cache
+C:\Users\takta\Desktop\OpenWeatherMap\WeatherApi\obj\Debug\netcoreapp2.0\WeatherApi.AssemblyInfo.cs
+C:\Users\takta\Desktop\OpenWeatherMap\WeatherApi\obj\Debug\netcoreapp2.0\WeatherApi.dll
+C:\Users\takta\Desktop\OpenWeatherMap\WeatherApi\obj\Debug\netcoreapp2.0\WeatherApi.pdb
